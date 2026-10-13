@@ -1,2 +1,2 @@
 # TheOtherSide-updates
-MOD
+ToS 1.0 pre-release

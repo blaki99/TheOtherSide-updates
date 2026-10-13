@@ -1,0 +1,531 @@
+{
+  "Schema": 1,
+  "BuildId": "25134893",
+  "Files": [
+    {
+      "Path": "Among Us_Data/app.info",
+      "Length": 19,
+      "Sha256": "7110F165350438828AB224F0550DC060FB8FB2773B573D75AF61CA86EF98F54C"
+    },
+    {
+      "Path": "Among Us_Data/boot.config",
+      "Length": 130,
+      "Sha256": "D7B32F9502E367A29A45C111BFDEB2B0E4E64E781B933DFA0A7D35B4287D1541"
+    },
+    {
+      "Path": "Among Us_Data/globalgamemanagers",
+      "Length": 234932,
+      "Sha256": "F401C860922D2E9582558A536E41045456605329424BE7C0607B27652412137F"
+    },
+    {
+      "Path": "Among Us_Data/globalgamemanagers.assets",
+      "Length": 507648,
+      "Sha256": "EDF0FE10A0A2FC6BAF562917F994DA2E202796D8C3A252A1954A8A4DE3B79C40"
+    },
+    {
+      "Path": "Among Us_Data/globalgamemanagers.assets.resS",
+      "Length": 623200,
+      "Sha256": "7C6EBD98430618884F0B000E6DC8415F78F3C8DF6221F2C35194BF34535246F6"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "Length": 16748028,
+      "Sha256": "B840D45186788E683E42B6687D66F4147281903458AE1D842F7C01FD78543CB6"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat",
+      "Length": 337563,
+      "Sha256": "C5BAA176A5B72CD545266340E42102D393A5E43D38C95796BC828918BB95277F"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/Sentry.System.Buffers.dll-resources.dat",
+      "Length": 394,
+      "Sha256": "439209737DECFF0ED26E04CD94C5A7839D9A16438881AF6F457B22DABD9B3DE9"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/Sentry.System.Collections.Immutable.dll-resources.dat",
+      "Length": 1636,
+      "Sha256": "CDEDA19448B3C583D912FF379E24C5E390E088A91D6E92A2FBEF9042C1A1C85A"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/Sentry.System.Memory.dll-resources.dat",
+      "Length": 1811,
+      "Sha256": "7B1E50A9A2F05306435E6994A381A4ADFFBE78A4FDAF6BF62E8904D0748ED5F1"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/Sentry.System.Numerics.Vectors.dll-resources.dat",
+      "Length": 856,
+      "Sha256": "612C2191DD0E28FAF0C0DA0FC0F68258A911037D12B97AFE44BF40D62066E381"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/Sentry.System.Reflection.Metadata.dll-resources.dat",
+      "Length": 12046,
+      "Sha256": "849CEE364E824415BBF9667D078CBA28B49C1F9E293B7BD73A37C60633135624"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/Sentry.System.Text.Encodings.Web.dll-resources.dat",
+      "Length": 435,
+      "Sha256": "92B408FE6FB1381F4D001DC78CC94D35D3CBB36314FA61B70083FDC01BBAFB1D"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/Sentry.System.Text.Json.dll-resources.dat",
+      "Length": 22517,
+      "Sha256": "3E5838654142E4287659F516FDC357029DC17C83E43B9BF105B23BA77C72768D"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/System.Data.dll-resources.dat",
+      "Length": 93718,
+      "Sha256": "98A7950EC6DE3242C2E190DFA630188DFA32511A125542B94BAA952D1C757D49"
+    },
+    {
+      "Path": "Among Us_Data/il2cpp_data/Resources/System.Drawing.dll-resources.dat",
+      "Length": 25453,
+      "Sha256": "7C33AA707BC3FDC83991B81A97D6FC622B140762A767300F08F616C2C0A91255"
+    },
+    {
+      "Path": "Among Us_Data/level0",
+      "Length": 1568,
+      "Sha256": "D2BF831D27AC52942CCB2CD3D621A7A9A81AB2C153B82AC203D80B34D0E65079"
+    },
+    {
+      "Path": "Among Us_Data/level1",
+      "Length": 98564,
+      "Sha256": "8C16E24B37896FC3E8A08F949166AF7B7FD52DF7AA42E29D438F1E1142EC69A9"
+    },
+    {
+      "Path": "Among Us_Data/level2",
+      "Length": 1897232,
+      "Sha256": "E0123A5BC597B2DA80B9918084DBDA4119F8076C9205030562394E0741CFC1FC"
+    },
+    {
+      "Path": "Among Us_Data/level3",
+      "Length": 42452,
+      "Sha256": "82120D6140300E339BA51BAEFDC701A572884DF1CA421A2733C93429FF4D55E8"
+    },
+    {
+      "Path": "Among Us_Data/level4",
+      "Length": 575800,
+      "Sha256": "F33B57D21350F288240C0ACD6E17EC8E2FF8027C024B6AB72FD47109E84BAD50"
+    },
+    {
+      "Path": "Among Us_Data/level5",
+      "Length": 581848,
+      "Sha256": "00A48903261C1E4E0D59B6D5EA93626C253F0DBC9BDAAE73724B1A2275A72677"
+    },
+    {
+      "Path": "Among Us_Data/level6",
+      "Length": 59956,
+      "Sha256": "0ACFBE41046220038A7FE85C51AD4CD1A33C914011D881637D87BDA2F6FB1DC1"
+    },
+    {
+      "Path": "Among Us_Data/level7",
+      "Length": 261780,
+      "Sha256": "F4755E8A044E7AFF107E7A482B8A3722B6D4A1865A3FEE584C6D68E9D999B164"
+    },
+    {
+      "Path": "Among Us_Data/level8",
+      "Length": 289684,
+      "Sha256": "17B6BE806F9BA8D554676D1337AD4F9E3A22D5D5A7B43B413C3EE49213A3D1BE"
+    },
+    {
+      "Path": "Among Us_Data/level9",
+      "Length": 220560,
+      "Sha256": "EF55F7739CADF69A688815344DAD3FAA15A7E0D1F31627A662AECB6EBACD4DA1"
+    },
+    {
+      "Path": "Among Us_Data/Plugins/x86_64/discord_game_sdk.dll",
+      "Length": 3889464,
+      "Sha256": "BF857C06F322FA55112680AC6E5BF4F8D8821CCF46CAD567D6CF90FAC359832D"
+    },
+    {
+      "Path": "Among Us_Data/Plugins/x86_64/EOSSDK-Win64-Shipping.dll",
+      "Length": 18367464,
+      "Sha256": "B5B023265A160112BDAB17BC7E5175D02D8DB8EEC8D8BC04B749B06A5914E523"
+    },
+    {
+      "Path": "Among Us_Data/Plugins/x86_64/Microsoft_Xbox_Services_141_GDK_C_Thunks.dll",
+      "Length": 2119040,
+      "Sha256": "58133981F9527ABB8F5470D275E5D425AE639B6E333132C113CF95B36E220C0B"
+    },
+    {
+      "Path": "Among Us_Data/Plugins/x86_64/Rewired_DirectInput.dll",
+      "Length": 107008,
+      "Sha256": "5B97128066E2470D16B0CAC708A7A9E8C95376522F16333A4455429CB17C5DCA"
+    },
+    {
+      "Path": "Among Us_Data/Plugins/x86_64/Rewired_WindowsGamingInput.dll",
+      "Length": 153088,
+      "Sha256": "946478C5E8F61CBE75C6D70E3AABE2766126605CBA45DDB579A5EF38FB198E98"
+    },
+    {
+      "Path": "Among Us_Data/Plugins/x86_64/sentry.dll",
+      "Length": 561152,
+      "Sha256": "4AF35032E88CDDED994202817D3102B7F2EDA381E5E544191A28E8A823E6167D"
+    },
+    {
+      "Path": "Among Us_Data/Plugins/x86_64/steam_api64.dll",
+      "Length": 265504,
+      "Sha256": "CA1FA9A7609AB10B7926400559CF073E5888423CC156AF72C6027D72A89EEA73"
+    },
+    {
+      "Path": "Among Us_Data/Plugins/x86_64/tess2.dll",
+      "Length": 35840,
+      "Sha256": "36A12AAB5BD62FA285EB7EA7FA9AFC8302A4E4C0D6AAC2483F4DAACFDF10F024"
+    },
+    {
+      "Path": "Among Us_Data/Plugins/x86_64/XGamingRuntimeThunks.dll",
+      "Length": 76160,
+      "Sha256": "69C55C82218B1E42CF9A9EDD14A0395F74B24D8CE54F88973B099A46CF1E35BB"
+    },
+    {
+      "Path": "Among Us_Data/resources.assets",
+      "Length": 26851984,
+      "Sha256": "BC62750EAE6F37ECEEE92155CAC49431CCE4ED31DAF54897066382CD95BCC642"
+    },
+    {
+      "Path": "Among Us_Data/resources.assets.resS",
+      "Length": 28558544,
+      "Sha256": "1E70BC4448B55E133F93B4D8D5A173E99B401113B2917DDE9379E99DA2F79452"
+    },
+    {
+      "Path": "Among Us_Data/resources.resource",
+      "Length": 14048,
+      "Sha256": "B832A487CD77392BEBCFDFF19833B3B3BC97BD255D0E232DD58F0B994F0C5FCB"
+    },
+    {
+      "Path": "Among Us_Data/Resources/unity default resources",
+      "Length": 1564240,
+      "Sha256": "D6C3C5465EE5F1D3479AF42C0833754A6F0B6C2897BC0BF35D37D944B1EA258B"
+    },
+    {
+      "Path": "Among Us_Data/Resources/unity_builtin_extra",
+      "Length": 236900,
+      "Sha256": "DB056FC9788D4F4E93D7C3BD8655CDE5A4A11A7245715A06F79011A72521ABE3"
+    },
+    {
+      "Path": "Among Us_Data/RuntimeInitializeOnLoads.json",
+      "Length": 3082,
+      "Sha256": "07186551379542237E7154380F414721DE26D74E9F17E160E9B685A01572F174"
+    },
+    {
+      "Path": "Among Us_Data/ScriptingAssemblies.json",
+      "Length": 4873,
+      "Sha256": "71F71843CD4C41D1C740F446C56BA6074B5CBC77C9967D88A46DBF9CCF0CD750"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets0.assets",
+      "Length": 1441188,
+      "Sha256": "0BE49403720A1D13D30CBF890DC87D5935AA0B745E87421AC95B6E9A4D753CA0"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets1.assets",
+      "Length": 181080,
+      "Sha256": "E231A538D6F815CFA4EF8B1D6308E541277E48F1F001103D0E718A1999040C6F"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets1.assets.resS",
+      "Length": 18079568,
+      "Sha256": "D143F5765948E5BE49F779AC2B43C67601D7EB3FE880E6DC44D9FD40162F961D"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets1.resource",
+      "Length": 205760,
+      "Sha256": "D517537751B257C5898859F6E9A332B58C90DD0F44A33AF09FD62750646869A2"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets2.assets",
+      "Length": 11697828,
+      "Sha256": "3FE90A4026015848507EDF890341BA49E27B0975D6B347974319CD1EC374D47C"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets2.assets.resS",
+      "Length": 207612336,
+      "Sha256": "A331F5B80E43BC84C4EBF7E4783653B4C7B9DF21126564E824AD27A0444926C6"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets2.resource",
+      "Length": 39149376,
+      "Sha256": "09EAC5F3E31AB09C7A0564C85588B816AC9792F0FBAD343B11EA3E94989A0CE2"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets3.assets",
+      "Length": 102668,
+      "Sha256": "E16AF2695FA7108F8B997BAE29EA0F8CB7938B200D278265B6F479CBA298BC91"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets4.assets",
+      "Length": 2478668,
+      "Sha256": "E92AD04EC4B4110D5955040491FF7225300A7BF0D6ED1029AA6C94F4C7B25FEE"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets4.assets.resS",
+      "Length": 24955456,
+      "Sha256": "C62C7D0D878140F8D3BF70FE7310228BACD8AFD5A2C6B1B5C2C3222161567B24"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets4.resource",
+      "Length": 2209248,
+      "Sha256": "AE0DD46FD8F3B92F3C99B34E448D3D444A17CCFF874B88C76ADC972493371C72"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets5.assets",
+      "Length": 168497,
+      "Sha256": "6475E1DAC7BF8D14AEA6C61515FDBE4426B188B8353262AB86EB0631BE467208"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets6.assets",
+      "Length": 14196,
+      "Sha256": "347748E0FC2789F44B43587E158DFD56295FE2B5B9B4C9E082E5361E69AFA712"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets6.resource",
+      "Length": 1798848,
+      "Sha256": "EA187653C30E115E830D725790DA12A98E9D4F9567106D0E232CC463E5498CAC"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets7.assets",
+      "Length": 110916,
+      "Sha256": "A31B66476DD07C97C0015B95201634A545BEF02245C599842B364E23ADED5B4D"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets7.assets.resS",
+      "Length": 16739328,
+      "Sha256": "BD527E8022AB5B63A9DA232DD3333C882AB330E7A18550204ECB4DF6E5CA1578"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets8.assets",
+      "Length": 48612,
+      "Sha256": "F6A42413B3407E6583B8B73E5AB5C633F6BA0B32AFE3E59C9FBCCA5A0FACB8CF"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets8.resource",
+      "Length": 499392,
+      "Sha256": "3ACE4644F9A58F4BD26D6DC811593B7726615FF2DD4CC4CFDBCE5DC01B2134DD"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets9.assets",
+      "Length": 1925916,
+      "Sha256": "9414590EE1C2F74762610481320FFB6859E4FA37AED0AD1B19C1B010993D2E1B"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets9.assets.resS",
+      "Length": 12317808,
+      "Sha256": "0838C8C895F084EAB80E72D23C268F4737131B7DB4F70D52E19AAD8F98EAFAFF"
+    },
+    {
+      "Path": "Among Us_Data/sharedassets9.resource",
+      "Length": 1932640,
+      "Sha256": "06A345ABB35404A43DD27FF7522CF032993ADE6F922F1AF2F0458EAA15ACD6CB"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/AddressablesLink/link.xml",
+      "Length": 30071,
+      "Sha256": "58BB2B3D9AED5D855637E43573FA666CB9597F776F7DC403BBEE93C4193FE584"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/catalog.json",
+      "Length": 1125384,
+      "Sha256": "E21421DEE99A48B3103DC9AB794CCBC298CA6F642EA7AE902CBDAA357F707CC0"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/settings.json",
+      "Length": 3631,
+      "Sha256": "5B540CF47505267BFA6A72550A8866DE9D1283DF611A9C39803AA967B0513030"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/0e13d00f4e855a64ab6bfe6989b0ff98_unitybuiltinshaders.bundle",
+      "Length": 54337,
+      "Sha256": "B23CE5230DF2AAE7EC70B1BBC1B0D7FF8E1BCDC21859AFE1ADF32CBBF2EAFF8A"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/2024_birthday_beans_assets_all.bundle",
+      "Length": 239722,
+      "Sha256": "428DB66B4FD625F2C70A38D61F6D3FE483257345019AEC00AA6C543AD86A6F38"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/2024beanbundle1_assets_all.bundle",
+      "Length": 2218368,
+      "Sha256": "B9A2A48C6A933661DF71CFBF7E58372D979EF2ABA28197A740C4303A1B0BD65A"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/2025beanbuffer2_assets_all.bundle",
+      "Length": 5227898,
+      "Sha256": "CC8B610CC68B6C009A7B4FDD0E5CA6C2207101A9FFE2F9DB33D20A18E9EA553B"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/anniversaryslothmask_assets_all.bundle",
+      "Length": 29899,
+      "Sha256": "86B714AAA15AB3B0C11E52FF376C6F4C196324218116EC47634B141250390EFF"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/bday2026_assets_all.bundle",
+      "Length": 25580,
+      "Sha256": "8C0DB37637B2660D27A91F2F527AB3C19F4960854B004FCF3FABACD5409B7BB6"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/cosmica_assets_all.bundle",
+      "Length": 20227997,
+      "Sha256": "DBF40A56D8DACBD66148408A00A68D489CE1FC90BC0C2DEE9958D264A148F5D4"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/cosmicb_assets_all.bundle",
+      "Length": 250658,
+      "Sha256": "BD7242BCCC37D075865CA3977AC766E98C241F7B8BF1B6316786710BF45EBEC4"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/cosmicubelny24_assets_all.bundle",
+      "Length": 20576612,
+      "Sha256": "661D856BA482FA38BE7E38EF7FCED34938439BE0F658A8DA8F2700434C7DCDAF"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/critrolecubea_assets_all.bundle",
+      "Length": 14789672,
+      "Sha256": "2E995F2B4E312465FA42BE5555DF62EF9657EC428C8D4DBF3CEF3F2436FEDBEC"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/critrolecubeb_assets_all.bundle",
+      "Length": 19157025,
+      "Sha256": "0BDBD8E50E2F7A57A3E14DC79795758A699C3410E19A33C88832CC5DEE84848A"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/edgeworth_assets_all.bundle",
+      "Length": 812659,
+      "Sha256": "A9DD4CC6555CAF129538C6CFAC23A42329044CA37D4BB7A50237DF5ADBE7D14F"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/genshin_assets_all.bundle",
+      "Length": 1617951,
+      "Sha256": "E0C8D81EC94420090D0D82C1400CDE437DDAC950BBA3533F0435D6DB30758E1C"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/hanami_assets_all.bundle",
+      "Length": 21830252,
+      "Sha256": "97E4A4537CD63854F592BA2CCE618728D70568C8E068841B1A391C7495C8B2CA"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/impostormonth_2026_assets_all.bundle",
+      "Length": 8558,
+      "Sha256": "C9534CA56BD3D176244BEC4C58BEB84527CF855E9CF5B60B7F7E07119D2151DB"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/initialcosmetics_assets_all.bundle",
+      "Length": 207653284,
+      "Sha256": "A7D4FB989BB0CB5D74C64236B02D601B100ED78BED97ABCC1C88CD81052F7939"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/initialmaps_assets_all.bundle",
+      "Length": 148565768,
+      "Sha256": "204FC4BDE5AC246E7AAA223C571095CD72721511D41514B0C5F3361638407082"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/kamurocho_assets_all.bundle",
+      "Length": 32729790,
+      "Sha256": "B0A4996C4CD46538BA22B975F6A3F99C671F6AAD805AD01C99CAD42A7A21D5F6"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/nye2025_assets_all.bundle",
+      "Length": 40727,
+      "Sha256": "F4553F2266BCD3B67441B4D3F08D66B9F8B9F340D7A1F670EB11E7F7C68F54D7"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/nye2026_assets_all.bundle",
+      "Length": 34543,
+      "Sha256": "C47485635BE935204E5D8C261F183FE8260758EF1372E218415C764AD932D725"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/pawsnclaws_assets_all.bundle",
+      "Length": 28493197,
+      "Sha256": "BC2EA8ABBC538423AEDB6F68DA56FF85D294BE6E59FA208A19980AA06D8C900D"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/phoenixwright_assets_all.bundle",
+      "Length": 1187977,
+      "Sha256": "A550D368359C58EA73F2E7DACF5E705B37CCA6FC94E18C6C6A9EB79B88FC41B9"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/projectparasitecubea_assets_all.bundle",
+      "Length": 8585845,
+      "Sha256": "667C409A60069EBB0D66A26BBC136E7A6807C48730315BFD8EDE5F3E6C80C814"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/projectparasitecubeb_assets_all.bundle",
+      "Length": 18593227,
+      "Sha256": "22BC28A97E5969BC1955B35806D0FEFEDCFD4E999C6C9D2A7E446DE90CBE9594"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/racingcubea_assets_all.bundle",
+      "Length": 7436514,
+      "Sha256": "CCE4B7480268F8D88D7CC0B9822467782BF6FE86D899472A03805745356F5607"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/racingcubeb_assets_all.bundle",
+      "Length": 18346733,
+      "Sha256": "F97E995191085C5464D629FDD4B1FABAB30445F86F06B8CB6CCCDCB9EDB94981"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/referencedatagroup_assets_all_320c85f5292e8c3d98eff4ef6c218ef3.bundle",
+      "Length": 2288712,
+      "Sha256": "08FC5F3149E94F3AD0EF9CB1C77B29772AB02A9AF6D7E5AE62BB4A557302EFC7"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/stardewa_assets_all.bundle",
+      "Length": 6063181,
+      "Sha256": "BEDE9726A7C032E0A10608A073BD27DC910A8196AA9646BBACF258B9CAA415C0"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/stardewb_assets_all.bundle",
+      "Length": 18809212,
+      "Sha256": "8F353FCC94AD2483C89901F6C5E166D6F0DCF38BDF3A4BF01C2A7B2BC60D45D6"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/CustomAssetPacksData.json",
+      "Length": 137,
+      "Sha256": "E5EDA2692AE02BE0F1CE3D669227489FB13EF417C13A6BE8E268DF7F831A2B14"
+    },
+    {
+      "Path": "Among Us_Data/StreamingAssets/UnityServicesProjectConfiguration.json",
+      "Length": 1131,
+      "Sha256": "5BF3EE48E2C79C48D7B814B0E89918D95FE0D8A71D25F20D461891197572F736"
+    },
+    {
+      "Path": "Among Us.exe",
+      "Length": 666624,
+      "Sha256": "209D0CDA85A2F86A46B6F3F97843DFEE86D18259C987708376F6E1BF87D208E3"
+    },
+    {
+      "Path": "baselib.dll",
+      "Length": 417984,
+      "Sha256": "3C4E0B62ECD46CC79E1D1AFDAD115770C7F32C9F60F77EA6AB80EA781508E63D"
+    },
+    {
+      "Path": "crashpad_handler.exe",
+      "Length": 626688,
+      "Sha256": "7A1B3BE3FB73FF05B46FB072D7CB8D930189708C6EA584E8C44EA54EFAA46D4D"
+    },
+    {
+      "Path": "GameAssembly.dll",
+      "Length": 60205056,
+      "Sha256": "615A95C9E09B6FFD45570883CB8459311C2B457533A38B37ED1704D6205AEDF9"
+    },
+    {
+      "Path": "msvcp140.dll",
+      "Length": 436624,
+      "Sha256": "DF7920F190D05F677367058E03A63C9B59E47A7395AB513CF9D0DCEE1EC486F3"
+    },
+    {
+      "Path": "UnityCrashHandler64.exe",
+      "Length": 1184960,
+      "Sha256": "1F6A218F18A646E0DD2DA9F1C93B90F141D8143D34B8C30618B6D199196A48B6"
+    },
+    {
+      "Path": "UnityPlayer.dll",
+      "Length": 30738856,
+      "Sha256": "889D912DA7A6897C469253A810EAA7682D12D0E3F2432F61F879F4152714AF95"
+    },
+    {
+      "Path": "vcruntime140.dll",
+      "Length": 76152,
+      "Sha256": "827F03554E5EACCB970BB9E53136A8D96BE5FD2748572EEE1A1F7616F36D9ABE"
+    }
+  ]
+}

@@ -8,8 +8,8 @@
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
       "ModVersion": "1.1.0",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.1.0/TOS11.zip",
-      "PackageSha256": "48D14D9DFFEFD869C524ED229819BACE346D7A0D9297A9D709D5CC00C1D00914",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.1.0/TOS11-verified.zip",
+      "PackageSha256": "8F56C3539EEEF27589081CEFBF0B0AA5D0E554E440593F94EA382F7B3153D41E",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -1220,8 +1220,8 @@
         },
         {
           "Path": "SHA256SUMS.txt",
-          "Length": 24895,
-          "Sha256": "D92DB0C670D3E7B997149C901BFF756844882496CA1704B57AFFF390A4796863"
+          "Length": 24653,
+          "Sha256": "6A69BF41A3A4F2BCA7B4256F2BFBB9696AEFAE24ACFFDEEFD6217123079ACE13"
         },
         {
           "Path": "winhttp.dll",

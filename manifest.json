@@ -9,7 +9,7 @@
       "AmongUsVersion": "2026.9.29",
       "ModVersion": "1.1.1",
       "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.1.1/TOS111.zip",
-      "PackageSha256": "BC8A769DE0F258527172C55BA6AAA08CA05D7CE415A4763662940AD837BD25B7",
+      "PackageSha256": "F4E66EA6434202D7FC9847819CC44CD711E027F1338BC6137625B6672C2FA19F",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -250,8 +250,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 44314112,
-          "Sha256": "C8D804825892605D3F0B2A9439C2BDD1B0E4A9099A71D988323899F73842E867"
+          "Length": 45210624,
+          "Sha256": "9A27694EC1AD5C4F9CCAF1404341214E9DBD2DECF7140214D6897633A4674170"
         },
         {
           "Path": "BepInEx/plugins/TouMegaPatchDebug.log",

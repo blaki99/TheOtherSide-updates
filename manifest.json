@@ -9,7 +9,7 @@
       "AmongUsVersion": "2026.9.29",
       "ModVersion": "1.1.1",
       "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.1.1/TOS111.zip",
-      "PackageSha256": "BC1AA30D7DC6C5838B613075AC51517CE583F7049FF72583EC993F6BA5D49D10",
+      "PackageSha256": "8FAF11AF982B69339E1DE469AA7144EB35254022590F27D0A1B117938751955D",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -241,7 +241,7 @@
         {
           "Path": "BepInEx/plugins/MiraAPI.dll",
           "Length": 2439168,
-          "Sha256": "F1D6FBF5B603132D957B86E76BD7CAA8DA45BD6CC17D631186FE5E3C959CC4A3"
+          "Sha256": "8E3FD53B9497282732347509721372C6C134EE1BDA9E1A7A075CB268E855E69B"
         },
         {
           "Path": "BepInEx/plugins/Reactor.dll",
@@ -1226,7 +1226,7 @@
         {
           "Path": "SHA256SUMS.txt",
           "Length": 24757,
-          "Sha256": "1E1A823F45E65EAD43D9764B1BABDF10358A0106D51D66C78F6E7976AD9C12B4"
+          "Sha256": "217284E80E29CD3E8CF3E708791FD2C486D52E9764744FCF493C1A74DADDE418"
         },
         {
           "Path": "winhttp.dll",

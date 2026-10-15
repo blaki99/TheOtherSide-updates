@@ -7,9 +7,9 @@
       "Branch": "public",
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "1.0-theotherside.31",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.0.0-theotherside.31/TOS31.zip",
-      "PackageSha256": "82A8B9478F86851B5981C672D71781A5C7B417CA79FA6BDAEC7C1CBA5A72BC46",
+      "ModVersion": "1.1.0",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.1.0/TOS11.zip",
+      "PackageSha256": "48D14D9DFFEFD869C524ED229819BACE346D7A0D9297A9D709D5CC00C1D00914",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -241,7 +241,7 @@
         {
           "Path": "BepInEx/plugins/MiraAPI.dll",
           "Length": 2439168,
-          "Sha256": "BEC803B1CC032410A3778768E51F642C2E5527800F4B84A7FA7B2ACA3C756605"
+          "Sha256": "F1D6FBF5B603132D957B86E76BD7CAA8DA45BD6CC17D631186FE5E3C959CC4A3"
         },
         {
           "Path": "BepInEx/plugins/Reactor.dll",
@@ -250,8 +250,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 60184576,
-          "Sha256": "52C2E8541FFB75EC2B379959CBAE9ECF45C53BF50765A9B9E346FF3FAFF20DAE"
+          "Length": 44314112,
+          "Sha256": "46A44BB248F24B101D71B16FDDC414BA13D449AE926924739AEAAF7E32137D39"
         },
         {
           "Path": "BepInEx/plugins/touhats.bundle",
@@ -1210,8 +1210,8 @@
         },
         {
           "Path": "INSTRUKCJA.txt",
-          "Length": 1037,
-          "Sha256": "BA7CD73A580C6892FE84213A8385A43DA49D7642DAA423E69B19D8B7D3A48D9D"
+          "Length": 1018,
+          "Sha256": "8F842C819611BC0F5D2609D1E43D0A67CCBBB12E379795241D8D0B4EA9FCB699"
         },
         {
           "Path": "Oxanium-OFL.txt",

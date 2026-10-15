@@ -7,9 +7,9 @@
       "Branch": "public",
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "1.1.0",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.1.0/TOS11-verified.zip",
-      "PackageSha256": "8F56C3539EEEF27589081CEFBF0B0AA5D0E554E440593F94EA382F7B3153D41E",
+      "ModVersion": "1.1.1",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.1.1/TOS111.zip",
+      "PackageSha256": "BC8A769DE0F258527172C55BA6AAA08CA05D7CE415A4763662940AD837BD25B7",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -251,7 +251,12 @@
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
           "Length": 44314112,
-          "Sha256": "46A44BB248F24B101D71B16FDDC414BA13D449AE926924739AEAAF7E32137D39"
+          "Sha256": "C8D804825892605D3F0B2A9439C2BDD1B0E4A9099A71D988323899F73842E867"
+        },
+        {
+          "Path": "BepInEx/plugins/TouMegaPatchDebug.log",
+          "Length": 0,
+          "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
         },
         {
           "Path": "BepInEx/plugins/touhats.bundle",
@@ -1210,8 +1215,8 @@
         },
         {
           "Path": "INSTRUKCJA.txt",
-          "Length": 1018,
-          "Sha256": "8F842C819611BC0F5D2609D1E43D0A67CCBBB12E379795241D8D0B4EA9FCB699"
+          "Length": 986,
+          "Sha256": "F1BE549DFB529D4A16CFFCA6738E69D2428D8D758697EB45F20E4200FEE048F0"
         },
         {
           "Path": "Oxanium-OFL.txt",
@@ -1220,8 +1225,8 @@
         },
         {
           "Path": "SHA256SUMS.txt",
-          "Length": 24653,
-          "Sha256": "6A69BF41A3A4F2BCA7B4256F2BFBB9696AEFAE24ACFFDEEFD6217123079ACE13"
+          "Length": 24757,
+          "Sha256": "1E1A823F45E65EAD43D9764B1BABDF10358A0106D51D66C78F6E7976AD9C12B4"
         },
         {
           "Path": "winhttp.dll",

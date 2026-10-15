@@ -7,7 +7,7 @@
       "Branch": "public",
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "1.2",
+      "ModVersion": "v1.2",
       "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.2/TOS12.zip",
       "PackageSha256": "45F85DAB8C7545F073C1D4F96E714F566CD92D287BDB13877D4BD1AB3110BBC5",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",

@@ -16,7 +16,7 @@
       "AmongUsVersion": "2026.9.29",
       "ModVersion": "v1.3",
       "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.3/TOS13.zip",
-      "PackageSha256": "9503385335F996652945E67E7E28B054CE72A3C5DA9E41E3A078A4A11E425B73",
+      "PackageSha256": "92FC55E8DEDA608240BA340A9C60F63868126DC076917677D66EC0CE836756CE",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -248,7 +248,7 @@
         {
           "Path": "BepInEx/plugins/MiraAPI.dll",
           "Length": 2459648,
-          "Sha256": "F60901755A3467DAB5F9450D892332D1E934FC42787A834FAAFC465A76EA7FA5"
+          "Sha256": "DE5AA4C7A8647D452073D56992293605446D167F4A2F080259B48091A0EF4BAC"
         },
         {
           "Path": "BepInEx/plugins/Reactor.dll",

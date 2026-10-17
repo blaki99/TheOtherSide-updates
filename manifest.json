@@ -1,6 +1,13 @@
 {
   "Schema": 3,
-  "LauncherVersion": "1.4.0",
+  "LauncherVersion": "1.5.0",
+  "LauncherUpdate": {
+    "Version": "1.5.0",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.5.0/TheOtherSide-Launcher-Setup-1.5.0.exe",
+    "SetupSha256": "f7d41eb94aa27fe7d3386b6ae39ad6f583f2a013a10e2a066e240ac3272f32a7",
+    "MinimumVersion": "",
+    "Notes": "Automatyczne aktualizacje launchera, wybór folderu instalacji, nowy wygląd."
+  },
   "Builds": [
     {
       "BuildId": "25134893",

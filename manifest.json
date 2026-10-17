@@ -16,7 +16,7 @@
       "AmongUsVersion": "2026.9.29",
       "ModVersion": "v1.3",
       "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.3/TOS13.zip",
-      "PackageSha256": "92FC55E8DEDA608240BA340A9C60F63868126DC076917677D66EC0CE836756CE",
+      "PackageSha256": "",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -1233,7 +1233,7 @@
         {
           "Path": "SHA256SUMS.txt",
           "Length": 24757,
-          "Sha256": "3145DD33A8F99D3C72A2FC7A51C154D6845811DF0854BFD07BC35C78CA121645"
+          "Sha256": "B623FFA8C36B1E52DB89A9F59EB9937C31445B8FDF410949C506F8F9F2259149"
         },
         {
           "Path": "winhttp.dll",

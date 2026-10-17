@@ -14,9 +14,9 @@
       "Branch": "public",
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "v1.2",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.2/TOS12.zip",
-      "PackageSha256": "58F531D7F7A8480698F418DDED267CAEA03DA746A05A2423FCF13FF950DA3722",
+      "ModVersion": "v1.3",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.3/TOS13.zip",
+      "PackageSha256": "9503385335F996652945E67E7E28B054CE72A3C5DA9E41E3A078A4A11E425B73",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -247,8 +247,8 @@
         },
         {
           "Path": "BepInEx/plugins/MiraAPI.dll",
-          "Length": 2439168,
-          "Sha256": "8E3FD53B9497282732347509721372C6C134EE1BDA9E1A7A075CB268E855E69B"
+          "Length": 2459648,
+          "Sha256": "F60901755A3467DAB5F9450D892332D1E934FC42787A834FAAFC465A76EA7FA5"
         },
         {
           "Path": "BepInEx/plugins/Reactor.dll",
@@ -257,8 +257,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 46274048,
-          "Sha256": "E5AF88F9496E02749E436DF29A564EB6569889BE1EE8DB548313E33DBA003B20"
+          "Length": 65932288,
+          "Sha256": "4EDC4B0CD6D3B14FC33E57B5E81323107A1E6D0F89CC9F578FF8F58119061555"
         },
         {
           "Path": "BepInEx/plugins/TouMegaPatchDebug.log",
@@ -277,8 +277,8 @@
         },
         {
           "Path": "changelog.txt",
-          "Length": 1022,
-          "Sha256": "44D43A80F4AD146FF1CCB0915EAD3185042D02546B13F3ED94945DC32F1CBE21"
+          "Length": 1125,
+          "Sha256": "91A988FD84C0AD776E2F9522F80164B9E08DFEB7FA91DCAFE8A58D9E23D1A710"
         },
         {
           "Path": "doorstop_config.ini",
@@ -1222,8 +1222,8 @@
         },
         {
           "Path": "INSTRUKCJA.txt",
-          "Length": 743,
-          "Sha256": "848A05B689C81DDC45D17FFF3D61EBBAD060EDC44630A68C76AB409CF1426CEF"
+          "Length": 798,
+          "Sha256": "0BC24A9F37FACCBC3C0EF3DCBB8AE4C38DE555571B7116E789A36B0A5A6DEAB5"
         },
         {
           "Path": "Oxanium-OFL.txt",
@@ -1233,7 +1233,7 @@
         {
           "Path": "SHA256SUMS.txt",
           "Length": 24757,
-          "Sha256": "B8CBBF9C5E45F33D68B69E4B0DCB9348E6082863CA7BFFEC95FAECF701E24D38"
+          "Sha256": "3145DD33A8F99D3C72A2FC7A51C154D6845811DF0854BFD07BC35C78CA121645"
         },
         {
           "Path": "winhttp.dll",

@@ -14,9 +14,9 @@
       "Branch": "public",
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "v1.5",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.5/TOS15.zip",
-      "PackageSha256": "0515E65A5FA6CB0D0B8CDCD5ED70D40A3CAE4D2A1D43A800FED9949624969BE9",
+      "ModVersion": "v1.6",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.6/TOS16.zip",
+      "PackageSha256": "A0591202827ABF8C88CD319AC83E0DD012D9BFC3C138CA3AAA3AAC7F6710B517",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -257,8 +257,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 59737088,
-          "Sha256": "0F575FC2E99746FAF5E993048257E3348613418AD3415AF2B442887736B0DEF6"
+          "Length": 59798016,
+          "Sha256": "E405699F53AC58F0D394CBE7DBCF59F01DB9AB66FE22FBD254388CA6EC5DFF46"
         },
         {
           "Path": "BepInEx/plugins/TouMegaPatchDebug.log",
@@ -277,8 +277,8 @@
         },
         {
           "Path": "changelog.txt",
-          "Length": 1064,
-          "Sha256": "4C29D5923D3DF62FBBF083BDD7ED124A917EAB2688A344556DA2EBC19EAC3D23"
+          "Length": 572,
+          "Sha256": "729AC31CF052E3790937B1DF8099EE0BC5C681E21C1F476C5145B31DB604760E"
         },
         {
           "Path": "doorstop_config.ini",
@@ -1233,7 +1233,7 @@
         {
           "Path": "SHA256SUMS.txt",
           "Length": 24757,
-          "Sha256": "BB34A19EA0EFF80C73492877103E73D970DA42E03D843E01C4D0BB8869B06909"
+          "Sha256": "4DB0D067DE50E4F81BADB61A302D64EBB1E8E5A3973B7F1C5E394B2B4F47C038"
         },
         {
           "Path": "winhttp.dll",

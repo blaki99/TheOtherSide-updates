@@ -1,12 +1,12 @@
 {
   "Schema": 3,
-  "LauncherVersion": "1.5.2",
+  "LauncherVersion": "1.5.3",
   "LauncherUpdate": {
-    "Version": "1.5.2",
-    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.5.2/TheOtherSide-Launcher-Setup-1.5.2.exe",
-    "SetupSha256": "00d23a4acbfef85ce5934054dd03fab022df93585df3099869d25cb2eea6c4c0",
+    "Version": "1.5.3",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.5.3/TheOtherSide-Launcher-Setup-1.5.3.exe",
+    "SetupSha256": "7fea4584d48938e3c43fd53203a3351dba302788318cc87a8cc62bf39df200a6",
     "MinimumVersion": "",
-    "Notes": "Logo bez gwiazdki i wyrównany pasek aktualizacji."
+    "Notes": "Zielony przycisk GRAJ, nowa plakietka statusu, poprawki przycisków."
   },
   "Builds": [
     {

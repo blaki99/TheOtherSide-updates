@@ -14,9 +14,9 @@
       "Branch": "public",
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "v1.7",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.7/TOS17.zip",
-      "PackageSha256": "A426F4CCB0C2FE597A60FEE280038E668D2FA83D8C327846D66A71012977E62A",
+      "ModVersion": "v1.8",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v1.8/TOS18.zip",
+      "PackageSha256": "81002F5860FEAC83897162B177741865AF591FFCDAE14131092044B4899F93F2",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -247,8 +247,8 @@
         },
         {
           "Path": "BepInEx/plugins/MiraAPI.dll",
-          "Length": 2472960,
-          "Sha256": "FCC811AC5111E4F421E527F59B616CE3BD06B07216CFCB6DC4B092D851BA2C27"
+          "Length": 2473472,
+          "Sha256": "E5086A64D55E89C0E7AB0406545476A8DAAC58E6420D6A1B4DE1FF0C14ACF9F0"
         },
         {
           "Path": "BepInEx/plugins/Reactor.dll",
@@ -257,8 +257,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 81195520,
-          "Sha256": "0903E7DF67025B1DD04588D1FB45A2CBD4CD32D340F2D0CAA45DBA1ACE32EC6F"
+          "Length": 81199104,
+          "Sha256": "C3F96F1E68E4B86D5FA3713EF299B75E62F65A6FED24987897251768663E89EA"
         },
         {
           "Path": "BepInEx/plugins/TouMegaPatchDebug.log",
@@ -277,8 +277,8 @@
         },
         {
           "Path": "changelog.txt",
-          "Length": 1420,
-          "Sha256": "CC1D4E9F3F7AA14AF955F68A260DA37B7322B5911571050471D4C05CDC22A066"
+          "Length": 1107,
+          "Sha256": "69BC6E4D281580EE9093DF54BE0A9C7DF17C55251C39031D89255BDD52B23BBE"
         },
         {
           "Path": "doorstop_config.ini",
@@ -1233,7 +1233,7 @@
         {
           "Path": "SHA256SUMS.txt",
           "Length": 24757,
-          "Sha256": "314EED3540BF08D63162064AEF9E2110780A7ED2DD6301847627AD7B91C39C4A"
+          "Sha256": "5917862461D689154AE8571D71F2AA3B28180BEFC82D487FAEDDAD7CE15B42AB"
         },
         {
           "Path": "winhttp.dll",

@@ -1,12 +1,12 @@
 {
   "Schema": 3,
-  "LauncherVersion": "1.5.5",
+  "LauncherVersion": "1.5.7",
   "LauncherUpdate": {
-    "Version": "1.5.5",
-    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.5.5/TheOtherSide-Launcher-Setup-1.5.5.exe",
-    "SetupSha256": "a73730d10fc41cc3471b9d9cf8d700a9ce68dce6fce7012b4f154113121d0124",
+    "Version": "1.5.7",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.5.7/TheOtherSide-Launcher-Setup-1.5.7.exe",
+    "SetupSha256": "5953aa80cb33e5aa561c9e066a207abc61107bfd1de50d1cd4bbafd8ae0cb9f8",
     "MinimumVersion": "",
-    "Notes": "Własne pluginy BepInEx na własne ryzyko (zakładka Pluginy)."
+    "Notes": "Ostatnie aktualizacje na ekranie Start i język PL / EN."
   },
   "Builds": [
     {

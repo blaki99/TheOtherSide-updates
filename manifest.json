@@ -1,12 +1,12 @@
 {
   "Schema": 3,
-  "LauncherVersion": "1.5.3",
+  "LauncherVersion": "1.5.5",
   "LauncherUpdate": {
-    "Version": "1.5.3",
-    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.5.3/TheOtherSide-Launcher-Setup-1.5.3.exe",
-    "SetupSha256": "7fea4584d48938e3c43fd53203a3351dba302788318cc87a8cc62bf39df200a6",
+    "Version": "1.5.5",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.5.5/TheOtherSide-Launcher-Setup-1.5.5.exe",
+    "SetupSha256": "a73730d10fc41cc3471b9d9cf8d700a9ce68dce6fce7012b4f154113121d0124",
     "MinimumVersion": "",
-    "Notes": "Zielony przycisk GRAJ, nowa plakietka statusu, poprawki przycisków."
+    "Notes": "Własne pluginy BepInEx na własne ryzyko (zakładka Pluginy)."
   },
   "Builds": [
     {

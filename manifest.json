@@ -14,9 +14,9 @@
       "Branch": "public",
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "v2.3",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.3/TOS23.zip",
-      "PackageSha256": "E90444300BC42F617359394857138DA3724E6645ECEB763EF65E68D5B8954A8A",
+      "ModVersion": "v2.4",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.4/TOS24.zip",
+      "PackageSha256": "E6DE510C836D3754D5E5F18C57A15E472B8C5ACDFC53E38C6DFA08E7FBBC97F3",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -257,8 +257,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 82724864,
-          "Sha256": "61AE1DB5703B5B3FD884E1EA97AFAC9D77CE0AA3294010387C8D43F2DC3A54F6"
+          "Length": 82902016,
+          "Sha256": "C9CE1356D037C8B239ADA865331E2308DD22F134027664810AF5F9E53E6394FE"
         },
         {
           "Path": "BepInEx/plugins/TouMegaPatchDebug.log",
@@ -277,8 +277,8 @@
         },
         {
           "Path": "changelog.txt",
-          "Length": 748,
-          "Sha256": "C5EEC8B4FBFE7E4E4CE387B7B8777002D846CC99BB240C7FC6771124EDB8C0AE"
+          "Length": 2206,
+          "Sha256": "9296FC3F2B458ED5AF7D78D2232370FA1C353302952C05E47F8A30FC19E80101"
         },
         {
           "Path": "doorstop_config.ini",
@@ -1222,8 +1222,8 @@
         },
         {
           "Path": "INSTRUKCJA.txt",
-          "Length": 798,
-          "Sha256": "0BC24A9F37FACCBC3C0EF3DCBB8AE4C38DE555571B7116E789A36B0A5A6DEAB5"
+          "Length": 998,
+          "Sha256": "A56780EBD00265E74477931192771364D38838CC99823AD0F3F9F47EF4FCDD79"
         },
         {
           "Path": "Oxanium-OFL.txt",
@@ -1233,7 +1233,7 @@
         {
           "Path": "SHA256SUMS.txt",
           "Length": 24757,
-          "Sha256": "E8ED43B2E5E9443A99596C2027E495C06EE6A630D858AE14159C065A10A28328"
+          "Sha256": "D2C4778E99F75005E12C4C2CC0C79CCE6067362291217ABF80E77E4699E33ADE"
         },
         {
           "Path": "winhttp.dll",
@@ -1250,10 +1250,10 @@
       "AppVersion": "7489",
       "Preferred": false,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "v2.3",
-      "Description": "ToS v2.3 (Epic Games)",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.3/TOS23.zip",
-      "PackageSha256": "E90444300BC42F617359394857138DA3724E6645ECEB763EF65E68D5B8954A8A",
+      "ModVersion": "v2.4",
+      "Description": "ToS v2.4 (Epic Games)",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.4/TOS24.zip",
+      "PackageSha256": "E6DE510C836D3754D5E5F18C57A15E472B8C5ACDFC53E38C6DFA08E7FBBC97F3",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/epic-7489.json",
       "GameManifestSha256": "A3B80F25E398807E4C5AD443560637CF785AAD7E264CB27DCBBB4046EAD636D2",
       "ModFiles": [
@@ -1494,8 +1494,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 82724864,
-          "Sha256": "61AE1DB5703B5B3FD884E1EA97AFAC9D77CE0AA3294010387C8D43F2DC3A54F6"
+          "Length": 82902016,
+          "Sha256": "C9CE1356D037C8B239ADA865331E2308DD22F134027664810AF5F9E53E6394FE"
         },
         {
           "Path": "BepInEx/plugins/touhats.bundle",
@@ -1514,8 +1514,8 @@
         },
         {
           "Path": "changelog.txt",
-          "Length": 748,
-          "Sha256": "C5EEC8B4FBFE7E4E4CE387B7B8777002D846CC99BB240C7FC6771124EDB8C0AE"
+          "Length": 2206,
+          "Sha256": "9296FC3F2B458ED5AF7D78D2232370FA1C353302952C05E47F8A30FC19E80101"
         },
         {
           "Path": "doorstop_config.ini",
@@ -2459,8 +2459,8 @@
         },
         {
           "Path": "INSTRUKCJA.txt",
-          "Length": 798,
-          "Sha256": "0BC24A9F37FACCBC3C0EF3DCBB8AE4C38DE555571B7116E789A36B0A5A6DEAB5"
+          "Length": 998,
+          "Sha256": "A56780EBD00265E74477931192771364D38838CC99823AD0F3F9F47EF4FCDD79"
         },
         {
           "Path": "Oxanium-OFL.txt",
@@ -2470,7 +2470,7 @@
         {
           "Path": "SHA256SUMS.txt",
           "Length": 24757,
-          "Sha256": "E8ED43B2E5E9443A99596C2027E495C06EE6A630D858AE14159C065A10A28328"
+          "Sha256": "D2C4778E99F75005E12C4C2CC0C79CCE6067362291217ABF80E77E4699E33ADE"
         },
         {
           "Path": "winhttp.dll",

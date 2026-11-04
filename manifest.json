@@ -4,9 +4,9 @@
   "LauncherUpdate": {
     "Version": "1.6.3",
     "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.6.3/TheOtherSide-Launcher-Setup-1.6.3.exe",
-    "SetupSha256": "2d5cc7f2d69a6edff8854d01d236603a8af589309bc6b844ab4a927265e82148",
+    "SetupSha256": "19abd2ec103f503549789321dfd6e2c6c2b5c2daedab8b2b17db77cf0bfc6de8",
     "MinimumVersion": "",
-    "Notes": "Nowa ikona launchera."
+    "Notes": "Nowa ikona launchera i logo TOS zamiast ludzika."
   },
   "Builds": [
     {

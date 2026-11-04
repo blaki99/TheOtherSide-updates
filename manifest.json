@@ -1,12 +1,12 @@
 {
   "Schema": 3,
-  "LauncherVersion": "1.6.2",
+  "LauncherVersion": "1.6.3",
   "LauncherUpdate": {
-    "Version": "1.6.2",
-    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.6.2/TheOtherSide-Launcher-Setup-1.6.2.exe",
-    "SetupSha256": "4eac8de91c7ba49cc21d75c8cca5ae077200e0ae86578d04f43e7effffbc5919",
+    "Version": "1.6.3",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.6.3/TheOtherSide-Launcher-Setup-1.6.3.exe",
+    "SetupSha256": "2d5cc7f2d69a6edff8854d01d236603a8af589309bc6b844ab4a927265e82148",
     "MinimumVersion": "",
-    "Notes": "Nowe logo The Other Side w launcherze i w instalatorze."
+    "Notes": "Nowa ikona launchera."
   },
   "Builds": [
     {

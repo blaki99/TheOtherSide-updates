@@ -1,12 +1,12 @@
 {
   "Schema": 3,
-  "LauncherVersion": "1.6.1",
+  "LauncherVersion": "1.6.2",
   "LauncherUpdate": {
-    "Version": "1.6.1",
-    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.6.1/TheOtherSide-Launcher-Setup-1.6.1.exe",
-    "SetupSha256": "f2e310c9fc1336cc6aef39bdaf9211eaf86b0f51ae54a6ccb474e9110af74d26",
+    "Version": "1.6.2",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.6.2/TheOtherSide-Launcher-Setup-1.6.2.exe",
+    "SetupSha256": "4eac8de91c7ba49cc21d75c8cca5ae077200e0ae86578d04f43e7effffbc5919",
     "MinimumVersion": "",
-    "Notes": "Poprawka: przełącznik Steam / Epic Games na zakładce Foldery jest w pełni widoczny i klikalny."
+    "Notes": "Nowe logo The Other Side w launcherze i w instalatorze."
   },
   "Builds": [
     {

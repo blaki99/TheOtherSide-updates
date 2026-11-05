@@ -1,12 +1,12 @@
 {
   "Schema": 3,
-  "LauncherVersion": "1.6.3",
+  "LauncherVersion": "2.0.0",
   "LauncherUpdate": {
-    "Version": "1.6.3",
-    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v1.6.3/TheOtherSide-Launcher-Setup-1.6.3.exe",
-    "SetupSha256": "19abd2ec103f503549789321dfd6e2c6c2b5c2daedab8b2b17db77cf0bfc6de8",
+    "Version": "2.0.0",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v2.0.0/TheOtherSide-Launcher-2.0.0-Setup.exe",
+    "SetupSha256": "308EF6CDB088E03AE3F7DA492FA5733A6589000D33312458C1A60955F194E39E",
     "MinimumVersion": "",
-    "Notes": "Nowa ikona launchera i logo TOS zamiast ludzika."
+    "Notes": "Postęp uruchamiania w menu Start i poprawiona obsługa Steam."
   },
   "Builds": [
     {
@@ -14,9 +14,9 @@
       "Branch": "public",
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "v2.6",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.6/TOS26.zip",
-      "PackageSha256": "C754800B0BCE10E8526CEEEBF7355DFD0F6023580FBCDF2792D2C122DD737C49",
+      "ModVersion": "v2.7",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.7/TOS27.zip",
+      "PackageSha256": "32AC71138017EE35E45FBB220E85F0AC4E0A806FB7D0A337DA65AEBCC5092AB5",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -223,7 +223,7 @@
         {
           "Path": "BepInEx/patchers/BepInEx.SplashScreen/Among Us.SplashScreen.GUI.exe",
           "Length": 105984,
-          "Sha256": "3AC36B84C5DDCAD55652A3CC35A6BB336CBEDE3DBACE069309DA67064E5EA642"
+          "Sha256": "574B4AF803FD9DF3FCB4260907E0B72B99FF8CC15FAFBC7D12E3F60F64E5EF34"
         },
         {
           "Path": "BepInEx/patchers/BepInEx.SplashScreen/BepInEx.SplashScreen.GUI.exe.config",
@@ -247,8 +247,8 @@
         },
         {
           "Path": "BepInEx/plugins/MiraAPI.dll",
-          "Length": 2477568,
-          "Sha256": "2AB3918EDD4BE43CF96E90076081A8870BFF2A057A2ECC637081B2D3C4EB89CE"
+          "Length": 2372608,
+          "Sha256": "0EA563FB080096F95975E667EDE9076550A93656E8645B092787C1B44E2215EB"
         },
         {
           "Path": "BepInEx/plugins/Reactor.dll",
@@ -257,13 +257,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 83301888,
-          "Sha256": "4895B5B3F9F4B91EF0B06D54552175C5A50F9424D75715B33ED33F43FF1076CB"
-        },
-        {
-          "Path": "BepInEx/plugins/TouMegaPatchDebug.log",
-          "Length": 0,
-          "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+          "Length": 82605056,
+          "Sha256": "AF5BA40B8F2D275F43E7E912D70DBD7AB3FDE79182724B8E2B3FE3536A387849"
         },
         {
           "Path": "BepInEx/plugins/touhats.bundle",
@@ -277,8 +272,8 @@
         },
         {
           "Path": "changelog.txt",
-          "Length": 1248,
-          "Sha256": "11DBA8B955C145CCC7C1D18EC57D473B1745912566989E2A824C2606B4FA61C5"
+          "Length": 97,
+          "Sha256": "055163C9FB29E11D45F2950144ED27F938CE09BC7430E0A2AE173CA1E8E03F43"
         },
         {
           "Path": "doorstop_config.ini",
@@ -1222,8 +1217,8 @@
         },
         {
           "Path": "INSTRUKCJA.txt",
-          "Length": 998,
-          "Sha256": "D7D599A9AB8B018CB3BC83F90829C08852E661B506E5ECCFC71B1A975E87B14C"
+          "Length": 1081,
+          "Sha256": "8A55B3AF9716AE45236FEE098390389442316B2C1616197CB33FE7F1D74D027F"
         },
         {
           "Path": "Oxanium-OFL.txt",
@@ -1232,8 +1227,8 @@
         },
         {
           "Path": "SHA256SUMS.txt",
-          "Length": 24757,
-          "Sha256": "F4A1BB6775AD333A3529C20E648837FEF1FB9D05A91700ED907E116F3603BE2C"
+          "Length": 24653,
+          "Sha256": "BDAD7B1FEFAE788BA46BBE1BCA7937EDD7BB5AD8D1C02C013379FD3D9A2FC67F"
         },
         {
           "Path": "winhttp.dll",
@@ -1250,10 +1245,10 @@
       "AppVersion": "7489",
       "Preferred": false,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "v2.6",
-      "Description": "ToS v2.6 (Epic Games)",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.6/TOS26.zip",
-      "PackageSha256": "C754800B0BCE10E8526CEEEBF7355DFD0F6023580FBCDF2792D2C122DD737C49",
+      "ModVersion": "v2.7",
+      "Description": "ToS v2.7 (epic)",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.7/TOS27-Epic.zip",
+      "PackageSha256": "B21E38BCA3E71F3EDA3E8B0EF2FA898E2A77CFBC6CCCD11B7AA340F2C13FD094",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/epic-7489.json",
       "GameManifestSha256": "A3B80F25E398807E4C5AD443560637CF785AAD7E264CB27DCBBB4046EAD636D2",
       "ModFiles": [
@@ -1460,7 +1455,7 @@
         {
           "Path": "BepInEx/patchers/BepInEx.SplashScreen/Among Us.SplashScreen.GUI.exe",
           "Length": 105984,
-          "Sha256": "3AC36B84C5DDCAD55652A3CC35A6BB336CBEDE3DBACE069309DA67064E5EA642"
+          "Sha256": "574B4AF803FD9DF3FCB4260907E0B72B99FF8CC15FAFBC7D12E3F60F64E5EF34"
         },
         {
           "Path": "BepInEx/patchers/BepInEx.SplashScreen/BepInEx.SplashScreen.GUI.exe.config",
@@ -1484,8 +1479,8 @@
         },
         {
           "Path": "BepInEx/plugins/MiraAPI.dll",
-          "Length": 2477568,
-          "Sha256": "2AB3918EDD4BE43CF96E90076081A8870BFF2A057A2ECC637081B2D3C4EB89CE"
+          "Length": 2372608,
+          "Sha256": "0EA563FB080096F95975E667EDE9076550A93656E8645B092787C1B44E2215EB"
         },
         {
           "Path": "BepInEx/plugins/Reactor.dll",
@@ -1494,8 +1489,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 83301888,
-          "Sha256": "4895B5B3F9F4B91EF0B06D54552175C5A50F9424D75715B33ED33F43FF1076CB"
+          "Length": 82605056,
+          "Sha256": "AF5BA40B8F2D275F43E7E912D70DBD7AB3FDE79182724B8E2B3FE3536A387849"
         },
         {
           "Path": "BepInEx/plugins/touhats.bundle",
@@ -1508,14 +1503,9 @@
           "Sha256": "542B2949BB94E1FAA0D444077246421CA25432A0C99823F24B7E8327A39FA1D1"
         },
         {
-          "Path": "BepInEx/plugins/TouMegaPatchDebug.log",
-          "Length": 0,
-          "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
-        },
-        {
           "Path": "changelog.txt",
-          "Length": 1248,
-          "Sha256": "11DBA8B955C145CCC7C1D18EC57D473B1745912566989E2A824C2606B4FA61C5"
+          "Length": 97,
+          "Sha256": "055163C9FB29E11D45F2950144ED27F938CE09BC7430E0A2AE173CA1E8E03F43"
         },
         {
           "Path": "doorstop_config.ini",
@@ -1628,14 +1618,14 @@
           "Sha256": "E927CBBA4F097B165BC07B85DC8E6B8BAD6DF17FC1035F2AB54DAC844BF9C922"
         },
         {
-          "Path": "dotnet/mscordaccore.dll",
-          "Length": 1321888,
-          "Sha256": "DD2DA6E841155C8869A68270D951246CBFE67943BB71082121FC5EA3D5439661"
-        },
-        {
           "Path": "dotnet/mscordaccore_amd64_amd64_6.0.722.32202.dll",
           "Length": 1321880,
           "Sha256": "0CECEE158F8B762C8A3610A91CA099ABF7FB834984803EC7D4E0BAE09CCEC173"
+        },
+        {
+          "Path": "dotnet/mscordaccore.dll",
+          "Length": 1321888,
+          "Sha256": "DD2DA6E841155C8869A68270D951246CBFE67943BB71082121FC5EA3D5439661"
         },
         {
           "Path": "dotnet/mscordbi.dll",
@@ -2458,9 +2448,14 @@
           "Sha256": "B3E6DF643DD07A3BDDE2B6419DA7E7EE49C2C01BDCE7C758C9ABC20B8B8A6296"
         },
         {
+          "Path": "INSTRUCTIONS-EN.txt",
+          "Length": 1985,
+          "Sha256": "F6EBF8A843266A68F2C25A805F7E51E3456B12D47498E44DF09DD237DCF6680A"
+        },
+        {
           "Path": "INSTRUKCJA.txt",
-          "Length": 998,
-          "Sha256": "D7D599A9AB8B018CB3BC83F90829C08852E661B506E5ECCFC71B1A975E87B14C"
+          "Length": 2084,
+          "Sha256": "204B9460BD1F78B2AA2F194C6A2CFC9FB8851DBF0FE8E002EA65A5B6B0E2EE4E"
         },
         {
           "Path": "Oxanium-OFL.txt",
@@ -2469,8 +2464,8 @@
         },
         {
           "Path": "SHA256SUMS.txt",
-          "Length": 24757,
-          "Sha256": "F4A1BB6775AD333A3529C20E648837FEF1FB9D05A91700ED907E116F3603BE2C"
+          "Length": 24739,
+          "Sha256": "BCE1897FA3D2D45144B498856AC99BE079E290B3DE7B888D72AD31891BAA9C93"
         },
         {
           "Path": "winhttp.dll",

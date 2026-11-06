@@ -1,12 +1,12 @@
 {
   "Schema": 3,
-  "LauncherVersion": "2.0.0",
+  "LauncherVersion": "2.1.0",
   "LauncherUpdate": {
-    "Version": "2.0.0",
-    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v2.0.0/TheOtherSide-Launcher-2.0.0-Setup.exe",
-    "SetupSha256": "308EF6CDB088E03AE3F7DA492FA5733A6589000D33312458C1A60955F194E39E",
+    "Version": "2.1.0",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v2.1.0/TheOtherSide-Launcher-2.1.0-Setup.exe",
+    "SetupSha256": "0E168092D4401FE1AC39C5780A676B794E8E2E37BFA1C91253FE4B8A0FD6000D",
     "MinimumVersion": "",
-    "Notes": "Postęp uruchamiania w menu Start i poprawiona obsługa Steam."
+    "Notes": "Nowa zakładka Ranking: połącz konto Discord i sprawdź wyniki na blakii.pl."
   },
   "Builds": [
     {
@@ -14,9 +14,9 @@
       "Branch": "public",
       "Preferred": true,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "v2.7",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.7/TOS27.zip",
-      "PackageSha256": "32AC71138017EE35E45FBB220E85F0AC4E0A806FB7D0A337DA65AEBCC5092AB5",
+      "ModVersion": "v2.8",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.8/TOS28.zip",
+      "PackageSha256": "23F0AF36E5911BF913382EB8138BA2A775A84D1301DE65E21BC31D4F56E337D6",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/25134893.json",
       "GameManifestSha256": "DBF4782F939195EB9E4D3F3B3C9E617FA90F54C7ECA0F1239D9C7A85E9CFFC43",
       "ModFiles": [
@@ -247,8 +247,8 @@
         },
         {
           "Path": "BepInEx/plugins/MiraAPI.dll",
-          "Length": 2372608,
-          "Sha256": "0EA563FB080096F95975E667EDE9076550A93656E8645B092787C1B44E2215EB"
+          "Length": 2405376,
+          "Sha256": "B25B54DAFF8AB9729889FFBE38218BE5845198E7F8A179993D72D142E19AA54A"
         },
         {
           "Path": "BepInEx/plugins/Reactor.dll",
@@ -257,8 +257,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 82605056,
-          "Sha256": "AF5BA40B8F2D275F43E7E912D70DBD7AB3FDE79182724B8E2B3FE3536A387849"
+          "Length": 83174912,
+          "Sha256": "5C49FB8E0A153C564FD8B81399E82B10F7C6409D0D4390115E22747A545D7466"
         },
         {
           "Path": "BepInEx/plugins/touhats.bundle",
@@ -272,8 +272,8 @@
         },
         {
           "Path": "changelog.txt",
-          "Length": 97,
-          "Sha256": "055163C9FB29E11D45F2950144ED27F938CE09BC7430E0A2AE173CA1E8E03F43"
+          "Length": 1214,
+          "Sha256": "318449B3297567707377F34B35AA6205723E9E647567A3FF0CB7DF3F8BDF3036"
         },
         {
           "Path": "doorstop_config.ini",
@@ -1221,14 +1221,29 @@
           "Sha256": "8A55B3AF9716AE45236FEE098390389442316B2C1616197CB33FE7F1D74D027F"
         },
         {
+          "Path": "LICENSE-LocalizeUs.txt",
+          "Length": 35129,
+          "Sha256": "605E9047A563C5C8396FFB18232AA4304EC56586AEE537C45064C6FB425E44AD"
+        },
+        {
+          "Path": "LOCALIZATION-NOTICES.md",
+          "Length": 1442,
+          "Sha256": "694088F0E02DA4F19A44CE53AED5B6183380978DD9ADDCCEF0820CA7B7E52ADB"
+        },
+        {
           "Path": "Oxanium-OFL.txt",
           "Length": 4384,
           "Sha256": "FE17C0F2581D71B4E1EA7E636E7F4877C29223E11BB1DD1A871E8C3F2A86336B"
         },
         {
+          "Path": "RANKING.txt",
+          "Length": 2496,
+          "Sha256": "E5FA84BF1959DF7FA2551355C0EC124EC11103C215174A4B4E741D6D73109F63"
+        },
+        {
           "Path": "SHA256SUMS.txt",
-          "Length": 24653,
-          "Sha256": "BDAD7B1FEFAE788BA46BBE1BCA7937EDD7BB5AD8D1C02C013379FD3D9A2FC67F"
+          "Length": 24910,
+          "Sha256": "4B56479B170E8BFF7FBAE035B1DAB7F326D82742C159BAA4B6866AE6981015C8"
         },
         {
           "Path": "winhttp.dll",
@@ -1245,10 +1260,10 @@
       "AppVersion": "7489",
       "Preferred": false,
       "AmongUsVersion": "2026.9.29",
-      "ModVersion": "v2.7",
-      "Description": "ToS v2.7 (epic)",
-      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.7/TOS27-Epic.zip",
-      "PackageSha256": "B21E38BCA3E71F3EDA3E8B0EF2FA898E2A77CFBC6CCCD11B7AA340F2C13FD094",
+      "ModVersion": "v2.8",
+      "Description": "ToS v2.8 (epic)",
+      "PackageUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/v2.8/TOS28-Epic.zip",
+      "PackageSha256": "003986BDBF95349249AA101CE5C3E8E5030E874EB8EE9B9734609ED3E0D78D92",
       "GameManifestUrl": "https://raw.githubusercontent.com/blaki99/TheOtherSide-updates/main/game-manifests/epic-7489.json",
       "GameManifestSha256": "A3B80F25E398807E4C5AD443560637CF785AAD7E264CB27DCBBB4046EAD636D2",
       "ModFiles": [
@@ -1479,8 +1494,8 @@
         },
         {
           "Path": "BepInEx/plugins/MiraAPI.dll",
-          "Length": 2372608,
-          "Sha256": "0EA563FB080096F95975E667EDE9076550A93656E8645B092787C1B44E2215EB"
+          "Length": 2405376,
+          "Sha256": "B25B54DAFF8AB9729889FFBE38218BE5845198E7F8A179993D72D142E19AA54A"
         },
         {
           "Path": "BepInEx/plugins/Reactor.dll",
@@ -1489,8 +1504,8 @@
         },
         {
           "Path": "BepInEx/plugins/TheOtherSide.dll",
-          "Length": 82605056,
-          "Sha256": "AF5BA40B8F2D275F43E7E912D70DBD7AB3FDE79182724B8E2B3FE3536A387849"
+          "Length": 83174912,
+          "Sha256": "5C49FB8E0A153C564FD8B81399E82B10F7C6409D0D4390115E22747A545D7466"
         },
         {
           "Path": "BepInEx/plugins/touhats.bundle",
@@ -1504,8 +1519,8 @@
         },
         {
           "Path": "changelog.txt",
-          "Length": 97,
-          "Sha256": "055163C9FB29E11D45F2950144ED27F938CE09BC7430E0A2AE173CA1E8E03F43"
+          "Length": 1214,
+          "Sha256": "318449B3297567707377F34B35AA6205723E9E647567A3FF0CB7DF3F8BDF3036"
         },
         {
           "Path": "doorstop_config.ini",
@@ -2458,14 +2473,29 @@
           "Sha256": "204B9460BD1F78B2AA2F194C6A2CFC9FB8851DBF0FE8E002EA65A5B6B0E2EE4E"
         },
         {
+          "Path": "LICENSE-LocalizeUs.txt",
+          "Length": 35129,
+          "Sha256": "605E9047A563C5C8396FFB18232AA4304EC56586AEE537C45064C6FB425E44AD"
+        },
+        {
+          "Path": "LOCALIZATION-NOTICES.md",
+          "Length": 1442,
+          "Sha256": "694088F0E02DA4F19A44CE53AED5B6183380978DD9ADDCCEF0820CA7B7E52ADB"
+        },
+        {
           "Path": "Oxanium-OFL.txt",
           "Length": 4384,
           "Sha256": "FE17C0F2581D71B4E1EA7E636E7F4877C29223E11BB1DD1A871E8C3F2A86336B"
         },
         {
+          "Path": "RANKING.txt",
+          "Length": 2496,
+          "Sha256": "E5FA84BF1959DF7FA2551355C0EC124EC11103C215174A4B4E741D6D73109F63"
+        },
+        {
           "Path": "SHA256SUMS.txt",
-          "Length": 24739,
-          "Sha256": "BCE1897FA3D2D45144B498856AC99BE079E290B3DE7B888D72AD31891BAA9C93"
+          "Length": 24996,
+          "Sha256": "08283B73E4C68286C738A993F5C7E89F1FF5B8D47020BDFDFA7D5F598A157B9B"
         },
         {
           "Path": "winhttp.dll",

@@ -1,13 +1,13 @@
 {
     "Schema":  3,
-    "LauncherVersion":  "2.1.0",
-    "LauncherUpdate":  {
-                           "Version":  "2.1.0",
-                           "SetupUrl":  "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v2.1.0/TheOtherSide-Launcher-2.1.0-Setup.exe",
-                           "SetupSha256":  "0E168092D4401FE1AC39C5780A676B794E8E2E37BFA1C91253FE4B8A0FD6000D",
-                           "MinimumVersion":  "",
-                           "Notes":  "Nowa zakładka Ranking: połącz konto Discord i sprawdź wyniki na blakii.pl."
-                       },
+    "LauncherVersion": "2.2.0",
+  "LauncherUpdate": {
+    "Version": "2.2.0",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v2.2.0/TheOtherSide-Launcher-2.2.0-Setup.exe",
+    "SetupSha256": "bc658899c0f3b571b6c7636e5feddd46abca5ab408a2bb215c5828f9e7967b13",
+    "MinimumVersion": "",
+    "Notes": "Sprawdź aktualizacje znów sprawdza launcher i mod; Graj czeka na aktualizacje."
+  },
     "Builds":  [
                    {
                        "BuildId":  "25134893",

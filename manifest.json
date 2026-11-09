@@ -1,12 +1,12 @@
 {
     "Schema":  3,
-    "LauncherVersion": "2.2.0",
+    "LauncherVersion": "2.2.1",
   "LauncherUpdate": {
-    "Version": "2.2.0",
-    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v2.2.0/TheOtherSide-Launcher-2.2.0-Setup.exe",
-    "SetupSha256": "bc658899c0f3b571b6c7636e5feddd46abca5ab408a2bb215c5828f9e7967b13",
+    "Version": "2.2.1",
+    "SetupUrl": "https://github.com/blaki99/TheOtherSide-updates/releases/download/launcher-v2.2.1/TheOtherSide-Launcher-2.2.1-Setup.exe",
+    "SetupSha256": "0f30d862bb9b1150641bf89d0e91e44cdb896cd2a3a981ae10cf061085fcb9bb",
     "MinimumVersion": "",
-    "Notes": "Sprawdź aktualizacje znów sprawdza launcher i mod; Graj czeka na aktualizacje."
+    "Notes": "Gdy czeka aktualizacja, przycisk Sprawdź aktualizacje zmienia się w Aktualizuj."
   },
     "Builds":  [
                    {
